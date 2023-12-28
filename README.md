@@ -5,11 +5,11 @@ A Data Analytics Project  Using Micro soft Excel, SQL and Tableau for Visualizat
   - [Project Overview](#project-overview)
   - [Dataset URL](#Dataset-URL)
   - [Data-Wrangling-and-Cleaning](#Data-Wrangling-and-Cleaning)
-  - [Results and Findings](#results-and-findings)
-  - [Recommendation](#recommendation)
-  - [Limitations](#limitations)
-  - [Reference](#reference)
-  - [Python codes worked with](#python-codes-worked-with)
+  - [Data Analysis and Insights Generation](#Data-Analysis-and-Insights-Generation)
+  - [Presenting my findings for Business Impact](#Presenting-my-findings-for-Business-Impact)
+  - [Tableau Result and Findings](#Tableau-Result-and-Findings)
+  - [RECOMMENDATION AND CONCLUSION](#RECOMMENDATION-AND-CONCLUSION)
+  - [SQL Codes Result Worked With](#SQL-Codes-Result-Worked-With)
 ### Project Overview
 This project analysis is to analyze the New York City short-term rental insights, some data was given with three different tables which are Prices, Reviews and room types. This analysis will help Pillow Palooza to know the most profitable areas and properties to invest in.
 The project will be divided into three parts:
