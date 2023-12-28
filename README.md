@@ -1,11 +1,24 @@
 # New-Yor-City-Short-Term-Rental-Insight-
 A Data Analytics Project  Using Micro soft Excel, SQL and Tableau for Visualization
+## Table of Content
+
+  - [Project Overview](#project-overview)
+  - [Dataset URL](#Dataset-URL)
+  - [Data-Wrangling-and-Cleaning](#Data-Wrangling-and-Cleaning)
+  - [Results and Findings](#results-and-findings)
+  - [Recommendation](#recommendation)
+  - [Limitations](#limitations)
+  - [Reference](#reference)
+  - [Python codes worked with](#python-codes-worked-with)
 ### Project Overview
 This project analysis is to analyze the New York City short-term rental insights, some data was given with three different tables which are Prices, Reviews and room types. This analysis will help Pillow Palooza to know the most profitable areas and properties to invest in.
 The project will be divided into three parts:
-•	Data Wrangling and Cleaning
-•	Data Analysis and Insights Generation
-•	Presenting your findings for Business Impact
+- Data Wrangling and Cleaning
+- Data Analysis and Insights Generation
+- Presenting your findings for Business Impact
+### Dataset URL  
+postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Airbnb
+
 ### Data Wrangling and Cleaning
 The data which was a raw data was cleaned with the help of the google spreadsheet these steps were taken:
 Data Collection, Data Inspection, Data Cleaning, Data Transformation, Data Integration, Data Formatting, Data Validation and  Documentation
