@@ -8,7 +8,7 @@ A Data Analytics Project  Using Micro soft Excel, SQL and Tableau for Visualizat
   - [Data Analysis and Insights Generation](#Data-Analysis-and-Insights-Generation)
   - [Presenting my findings for Business Impact](#Presenting-my-findings-for-Business-Impact)
   - [Tableau Result and Findings](#Tableau-Result-and-Findings)
-  - [RECOMMENDATION AND CONCLUSION](#RECOMMENDATION-AND-CONCLUSION)
+  - [Recommendations And Conclusion](#Recommendations-And-Conclusion)
   - [SQL Codes Result Worked With](#SQL-Codes-Result-Worked-With)
 ### Project Overview
 This project analysis is to analyze the New York City short-term rental insights, some data was given with three different tables which are Prices, Reviews and room types. This analysis will help Pillow Palooza to know the most profitable areas and properties to invest in.
@@ -47,7 +47,7 @@ In this stage, tableau public was used to analys and present my business questio
 ![image](https://github.com/Chuks200/New-Yor-City-Short-Term-Rental-Insight-/assets/150162291/a3b34573-8443-4cd1-9d98-149be96769e5)
 ##### Top 5 average rental prices in New York City Neighborhood
 
-### RECOMMENDATION AND CONCLUSION
+### Recommendations And Conclusion
 In recommendation to Pillow Palooza, this points should be put into consideration
 - Williamsburg should be considered as a better neighbourhood to start-up an Airbnb short-term rental, this is because it has the highest amount of booking per year in New York City. It should also be rented on an average price of £142 to be affordable for customers.
 - Entire home/apartment and private rooms should be the properties to be invested in, this is because people in the New York neighbourhood prefer to rent such properties than the share room apartment.
