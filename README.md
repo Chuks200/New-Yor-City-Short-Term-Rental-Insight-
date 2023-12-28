@@ -7,8 +7,8 @@ The project will be divided into three parts:
 •	Data Analysis and Insights Generation
 •	Presenting your findings for Business Impact
 ### Data Wrangling and Cleaning
-•	The data which was a raw data was cleaned with the help of the google spreadsheet these steps were taken:
-•	Data Collection, Data Inspection, Data Cleaning, Data Transformation, Data Integration, Data Formatting, Data Validation and  Documentation
+The data which was a raw data was cleaned with the help of the google spreadsheet these steps were taken:
+Data Collection, Data Inspection, Data Cleaning, Data Transformation, Data Integration, Data Formatting, Data Validation and  Documentation
 
 ### Data Analysis and Insights Generation
 The tool that was used here was the Structured Query Language (SQL), where the three tables which are the prices, reviews and room types table were being analysed based on the question of the sprints.
